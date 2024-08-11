@@ -38,6 +38,8 @@ Client Side:
   4. run command: python rudp_client.py
   5. the client will start to accept the files
 
+Upload all files you want to share with clients, in the same directory as "rudp_server.py" and they all will be received on the client side in a folder. 
+
 REFERENCES : 
 1. https://www.geeksforgeeks.org/reliable-user-datagram-protocol-rudp/
 2. https://ieeexplore.ieee.org/document/9173515
