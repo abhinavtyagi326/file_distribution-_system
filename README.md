@@ -36,4 +36,11 @@ Client Side:
   2. open command prompt
   3. locate the Python file location
   4. run command: python rudp_client.py
-  5. the client will start to accept the files 
+  5. the client will start to accept the files
+
+REFERENCES : 
+1. https://www.geeksforgeeks.org/reliable-user-datagram-protocol-rudp/
+2. https://ieeexplore.ieee.org/document/9173515
+3. https://www.cs.emory.edu/~cheung/Courses/558/Syllabus/14-Multicast/intro.html
+4. https://www.ibm.com/docs/en/i/7.3?topic=designs-examples-using-multicasting-af-inet
+   
